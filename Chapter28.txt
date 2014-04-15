@@ -1,0 +1,287 @@
+Chapter 28
+
+OUTSOURCING AND OFFSHORING
+アウトソーシング・オフショア
+
+When the work piles up and the costs mount, shifting a portion of the work to outside teams, especially ones that can be hired at a reduced rate, can seem like a good idea. However, what starts out as a well-intentioned shifting of a project can turn out to be a nightmare.
+作業量やコストが超過してくると外部のチーム、特に低コストでできるところに発注したくなるものだ。だが目論見が外れ、プロジェクトを修羅場に突入させてしまうこともある。
+
+Outsourcing and/or offshoring, though sometimes unpopular, are here to stay. And because that’s true, too many of us find that we have to make the best of a less-than-optimal situation. That was the case with Jonathan, a newly hired lead developer at a Silicon Valley software company known for its agile development practices. Let’s see how he reacts when he learns that he is to manage two newly outsourced teams.
+アウトソーシングやオフショアには悪評もついてまわるが、なくなりはしない。そのおかげで、理想的ではない状況の中で最善を尽くさねばならない羽目に陥ることも多い。ここで紹介するジョナサンもそんな目に会った一人だ。ジョナサンはシリコンバレーでもアジャイル開発を実践していることで知られる会社に最近入社したばかりなのに、新規のアウトソース先を担当するように指示されてしまうのである。
+
+The Story
+物語
+
+Jonathan had been working at his new company for three months. He was happy to be associated with an employer who valued agile principles and with teammates who knew how to deliver quality software. It was a far cry from his last job, with an employer that just didn’t get it and a team stuck in ScrumBut [GUNNERSON]. That all changed the day his manager Emma invited him for coffee and a talk.
+ジョナサンが転職して3ヶ月経った。新しい会社はアジャイルの原理を大事にしており、同僚も高品質なソフトウェアをデリバリーするすべを知っている。とても満足のいく環境で、前の会社とは大違いだった。前職の管理者はアジャイルを理解しておらず、チームはスクラムバット[GUNNERSON]にはまっていた。そんな幸せも、上司のエマに「コーヒーを飲みながら少し話がしたいんだけど」と言われたときから変わってしまうのである。
+
+“I won’t beat around the bush, Jonathan,” Emma began as they walked toward the coffee stand. “I’ve got some good news and some potentially bad news. I’ll start with the bad. I just got out of an executive management meeting. We are going to shift your project to our overseas office. The good news is that you’ve been such a great leader that the senior vice president asked specifically for you to run it. Are you up for it?”
+「単刀直入に言うわね、ジョナサン」エマはコーヒーショップに向かう途中で切り出した。「いい知らせと、悪いかもしれない知らせがあるの。悪い方からいうと、たったいま経営会議で決まったことなのだけど、あなたのプロジェクトを海外支社へオフショアすることになりました。いい知らせは副社長が、あなたがこれまで3ヶ月優秀なリーダーだったと認めて、あなた自身にオフショアを仕切ってほしいと言っているの。請けてもらえるかしら？」
+
+Jonathan tried to keep his face neutral, but his first thought was that moving the project overseas would be the worst possible solution. He turned to Emma.“Emma, is there any way we can keep it local? The team here has made great headway over the last few months,” asked Jonathan.
+プロジェクトを海外にオフショアするのは、考えつく限り最悪のやり方だとジョナサンは思った。それを顔には出さずにエマに聞いてみた。「プロジェクトをここで続ける方法がなにかないですか？ここのチームはここ数ヶ月で素晴らしい成長を見せています」
+
+“I wish I could say yes. The problem isn’t your team; it’s that our flagship product is slipping behind schedule. To get it back on track, we’re diverting all local resources to help, including the people on your team. At the same time, we want to keep your project moving, so we’ve decided to contract with some overseas groups. A side benefit is that the move will save us money; we’ll be able to get the outsourced team for 80 percent less than we are paying the local teams,” Emma explained.
+「そうできればいいのだけど、問題はあなたのチームではないの。うちの主力製品がスケジュールに遅れているので、要員を追加することに決まったの。ここにいる開発者は、あなたのチームも含めて、全員そちらのヘルプに入るわ。だけどあなたのプロジェクトは進めたいので、それで海外支社に発注することになったわけ。だけどそのおかげでコスト削減になるわね。向こうに発注すると80%も安くできるから」エマは説明した。
+
+Jonathan had experience in outsourcing and offshoring work before, at his last company, which was one of the main reasons he changed jobs. He was not happy about the news, but being a new hire he understood his place and what he needed to do.“I’ve been through this before, Emma, and I have to be honest. I’m not sure it’s a good idea,” said Jonathan.
+ジョナサンは前の会社で海外オフショア開発の経験があったが、まさにそれが転職した理由のひとつだった。今回のオフショアの方針にも賛成はできなかったが、新参者としてどうすべきかはわきまえていた。「エマ、私はオフショアの経験があります。正直に言いますが、うまくいかないかもしれないと感じています」
+
+“Which part, having you lead the effort or shifting the project?” she asked.
+「どこがうまくいかないのかしら、あなたがリーダーになること、それともプロジェクトを移すこと？」
+
+“Both,” said Jonathan. “Now I’m not saying every company is like this, but I do want to share with you the outsourcing experience at my last company so that you can understand my hesitation. A couple of years ago, I was lead developer for an inhouse team. We were cranking along pretty well. Because we always met our targets, management thought we had extra capacity, so they added more work to the pile. We became stretched so thin that a single snap would have ripple effects through every project in the company, delaying everyone. It was not a pretty sight.
+「両方です」ジョナサンは言い切った。「どの会社でも同じというわけではありませんが、私自身のアウトトーシングの経験を聞いてください。そうすれば、なにが心配なのか理解してもらえると思います。何年も前、私は社内開発チームのリーダーをやっていました。チームはとてもうまくやっていたんです。ですが、いつでも予定通りに進めているのを見たマネージャーが、チームに余力があると考えて、仕事を増やしていきました。私たちはギリギリまで引き延ばされて、ちょっとでもなにかあると会社中のプロジェクトに影響が出てすべてに遅れが出るようになってしまったんです。ひどい状況でした」
+
+“Management’s solution was to have local teams partner with offshore teams. It seemed harmless enough, right? It worked like this: The architect on the team, a couple other guys, and I would go through and build a prototype, document it, and then send everything off to the team to build and implement. We ran it all in sprints so they delivered stuff back to us every couple of weeks.
+「マネージャーの解決策は、社内チームとオフショアチームを組み合わせるというものでした。これなら問題になりっこなさそうですよね？私はアーキテクトと数名の開発者と一緒にプロトタイプを作り、ドキュメント化して、海外チームに送って実装してもらうようにしました。2週間のスプリントをまわして、スプリントごとに実装したものをこちらに送り返してもらいました」
+
+“The problem was that 80 percent of the code they sent back was in such bad shape that it was easier to rewrite it than to explain to the offshore teams how to fix it. This went on for months. One by one, my teammates quit out of frustration—the fun had gone out of their jobs, and they felt, rightly or wrongly, that they were the cleanup crew for the offshore team. When I left a few months ago, I was the last original team member. Since then, that company’s been having a support nightmare. There’s no one left locally who knows the code, and because the turnover was just as high on the overseas team, there is no one left there to ask questions of either. All they’ve got is buggy code and mad customers.
+「問題だったのは、向こうが書いたコードがひどかったことです。コード80%について、どこをどう直すか指示するよりも自分たちで書き直した方がずっと早かったんです。こんな状況が何ヶ月も続きました。チームメンバは1人また1人と辞めていきました。仕事はまったく楽しくなかったし、こんな言い方が正当かはわかりませんが、オフショアチームの尻ぬぐい役のように感じられたんです。私が退職したときには、元々のメンバーはもう残っていませんでした。それ以来、元の会社はサポートで大変になっています。元のコードを知っている人は1人もいないし、オフショア側でも転職率が高くて頼れる相手は残っていません。残ったのはバグの多いコードと、怒っている顧客だけというわけです。」
+
+“Management at that company looked at the initial figures and decided it was a cheap and easy solution. And sure, it cost less hour per hour, but the work they got back was inferior to what we would have delivered had we all been local. And it cost them a whole lot of good employees, including me. If you decide to do this, I’ll give it my best shot, but I firmly believe this is the wrong thing to do. Outsourcing this work will not get us to where we need to be faster; in fact, it will slow us down and cost us more in time, money, employees, and customer satisfaction.”
+「マネージャーは数字だけ見て、オフショアなら安くて簡単だと判断しました。確かに時間あたりの単価は安くなりました。ですが出来上がったものは、元のチームで作ったものより劣っていたわけです。さらに優秀な社員を数多く失うことにもなりました。私もそうですが。今回のオフショアが決定事項なら、私は最善を尽くしますが、間違ったやり方だと確信しています。アウトソーシングで私たちの目標達成が早まることはありません。むしろスピードが遅くなり、時間もお金も消費して、社員や顧客満足を失うことになると思います」
+※initial figures?
+
+Emma stood there stunned. She used the distraction of ordering coffee to give her time to think. When they picked up their coffee and took their seats, she looked up at Jonathan and cautiously replied.
+エマは返事に詰まってしまった。考える時間を稼ぐためにコーヒーを注文し、コーヒーを持って席に着いてからやっと、ジョナサンの顔を見て慎重に答えた。
+
+“You bring up some good points, Jonathan, points I have not considered because I have never had to outsource work. Can you tell me some more of how you had things set up and what you would do differently? I ask because I know the decision has been made to push work out. But, and this is a big but, we can still influence how we structure it,” Emma explained.
+「あなたの話には重要なポイントが含まれてると思うわ。私はアウトソーシングの経験がないので、そうしたポイントのことを考慮していなかった。あなたがどうすべきと思うか、考えを聞かせてもらえるかしら。アウトソーシングは経営陣の決定事項だけれど、そうは言っても、どう進めるかはまだ変えられるはずだから」
+
+“Yes, there are some things we can do to help make it less painful. We were based here in the valley, and the outsource shop was in India. They were 13 hours ahead of us, which made it uncomfortable for both parties to communicate. Either I had to work late or they had to work late. It just didn’t work. It would be much better to stay closer to the same time zone, which in our case would mean contracting with an overseas team to our south—Argentina is only four hours ahead of us, so communication would be much easier,” said Jonathan.
+「わかりました、痛みを減らせるようなやり方があります。前の会社はシリコンバレーにあり、オフショア先はインドでした。時差は13時間で、インドの方が早く、お互いにコミュニケーションが困難でした。私が遅くまで残るか、インド側が残るかです。どちらにしてもうまくいきませんでした。ですから時差があまりないよう、オフショア先は南に探すのがいいですね。アルゼンチンとの時差は4時間ですから、コミュニケーションはそれほど難しくありません」ジョナサンが言った。
+
+Emma was frantically writing notes. “What else?” she asked.
+エマはメモを取るのに専念していた。「他にもある？」エマは尋ねた。
+
+“Well, next I would embed team members together. What I mean by this is that if we outsource the work, we need to plan ahead. We need to have the outsource team come to our offices to work with the local team before those guys shift over to the flagship  project.  This  enables  us  to  have  a  good  knowledge  transfer  and  gives  the overseas team a chance to ask the local team questions around direction, architecture, strategy,” said Jonathan.
+「そうですね、次にチームメンバー全体を一体にします。これはアウトソーシングに先だって計画しておかなくては。アウトソーシング先のチームをこちらに呼んで、今のメンバーがまだいるうちに引き継ぎをするんです。知識を伝達できますし、今後の方針やアーキテクチャ、戦略について現メンバーに聞くこともできます」
+
+Emma was a bit stunned. “You want me to fly the whole team in?” she asked. “Isn’t that a bit expensive?”
+
+エマは少し驚いた。「チーム全員に来てもらうの？費用がかかりすぎないかしら」
+
+“Of course it is,” said Jonathan. “It’s one of several hidden costs of outsourcing. And it won’t just happen once. After the initial transition, we’ll need to spend time doing the deeper knowledge transfer that can only occur with pairing and time. That will mean flying a few people at a time from overseas to here for a one-month stay, then sending them home and flying a few more people in. Eventually everyone down there will have the opportunity to work with the local team before the local team switches to the flagship project. It costs a lot more than just what you see on paper and you won’t have the local team switched over to the flagship product as quickly as management thinks. The alternative, though, is to take the approach my other company took and just swap them out now and pay for it later in buggy, unintelligible code and unhappy customers. It’s our choice.”
+「かかるにきまってます」ジョナサンが答えた。「これがアウトソーシングの隠れたコストの一部です。それに一回きりでは終わりません。最初の引き継ぎのあとも、さらに時間をかけて深いレベルの知識共有が必要です。時間を取ってペア作業しないとできませんから、オフショア先から数名、1ヶ月間こちらに滞在してもらい、次はまた他のメンバーに1ヶ月間こちらに来てもらうという具合で、全員一度はこっちのメンバーと一緒に作業してもらいます。それが終わったら、現メンバーは主力製品の方に移れます。机上で考えるよりもずっとコストがかかりますし、経営陣が期待するほどすぐに主力製品の方に移れるわけでもありません。ですが、メンバーを主力製品の方に引き抜いたら、私が前職で経験したように後になってからバグだらけので解読不能なコードと、不満だらけの顧客が残ることになります。どちらがいいですか？」
+※pairing=ペア作業、ペアプログラミング？
+※on paper？
+
+Emma was visibly discouraged. She had not considered these factors.“What else do we need to consider?” asked Emma.
+エマは目に見えてがっかりしていた。こうした要素は考えていなかったのだ。「他に考えておくことは？」エマは再びたずねた。
+
+“Well, if I’m going to run this, we need to plan on a hefty travel budget. I will be going down to Argentina once a month at a minimum to spend time with the team. Communicating only via email will only slow us down and make things worse. Once they get on their feet, we can look at less travel, but it will be a long while before that happens,” said Jonathan.
+「そうですね、私がやるのであれば、出張の予算をたっぷりおさえますね。月に少なくとも1回はアルゼンチンに行って向こうのチームと会います。メールだけでコミュニケーションするとスピードが遅くなるし、うまくいきません。向こうのチームがしっかり立ち上がれば出張は減ってくると思いますが、それはずっと先の話です」ジョナサンは話した。
+
+“What if we can’t make this happen the way you want?” asked Emma.
+「あなたの意見通りにできなかったらどうなるのかしら」エマがたずねた。
+
+“I  don’t  know.  I  can’t  imagine  this  ending  well  if  it’s  set  up  poorly  and underfunded.”
+「わかりません。準備不足で予算も足らなかったら、どう転んでもうまくいかないでしょうね」
+
+“All right,” said Emma. “What I need you to do is write this up for me and prepare a presentation for management so we can present our case. Can you do that?” asked Emma.
+「わかったわ」エマが言った。「今の話をまとめて私に送ってちょうだい。それから経営陣向けにプレゼンを作ってほしいの。頼めるかしら？」
+
+“I’ll have it ready by next week,” said Jonathan. “I came to this company based on its reputation. The management team is well known in the valley for putting people and customers first. I’m confident that once management sees the potential problems, it will fund the solutions. Of course, I’d still rather keep it local. But if we do have to outsource it, at least we can do it correctly.”
+「来週にはできます」ジョナサンは答えた。「私は会社の評判を聞いてここに来ました。シリコンバレーの中でも、経営陣が人と顧客を最優先することで知られています。ですから問題の起こる可能性を理解してもらえれば、きっと予算を付けてくれると信じられます。アウトソーシングしなければならないなら、正しいやり方でやれるはずです」
+※Of course ... を略した
+
+The Model
+モデル
+
+Most software companies use outsourcing not because they want to lay people off, but because they have too many concurrent projects and not enough staff to support them. Management looks at the options and decides that outsourcing is their best solution. What they might not consider or understand is what that could mean for their teams, their code, the final product, and their bottom line.
+ソフトウェア企業がアウトソーシングするのは、ほとんどの場合人員削減のためではなく、同時並行のプロジェクトが多すぎて人材が足らなくなるためだ。経営陣はいくつかの選択肢の中から、アウトソーシングを最善策として選ぶ。しかしアウトソーシングがチーム、コード、最終的な製品、あるいは締め切りに対してどんな影響があるか、経営陣は考えず、理解もしていないかもしれない。
+
+Outsourcing and offshoring are challenging using any framework, but when you add agile practices such as pairing, core team hours, and daily standups, offshoring an agile project quickly becomes a complicated and somewhat expensive endeavor. That being said, I’m not suggesting you use a traditional approach for offshoring; on the contrary, you need to be very disciplined and have frequent checkpoints, greater transparency, and other agile practices to make success more likely.
+アウトソーシングとオフショアはどんなフレームワークを使っても困難だが、ペア作業、core team hours、朝会などのアジャイルプラクティスを考えると、アジャイルプロジェクトをオフショアするのは複雑で、ある意味高コストな試みとなる。とは言っても、オフショアには従来型のプロセスの方がいいと言いたいわけではない。その反対だ。まずは規律正しくあること、そして必要なのは頻繁なチェックポイント、高度な透明性、有用なアジャイルプラクティスである。そうすれば成功の確率を上げられる。
+※core team hours？
+
+Before you make the jump to outsourcing, consider the true costs. If you still decide to do it, or the decision has been made for you, work to structure the outsourcing correctly for the best chance for success. Let’s look first at the costs and then at strategies for dealing with the realities of outsourcing.
+アウトソーシングに飛びつく前に、本当のコストを考えよう。それでもやるべきと判断したならば、あるいは誰かがそう判断したなら、成功確率を最大化するアウトソーシングのやり方を構築すべきだ。まずコストについて検討し、次に戦略について考えていく。
+※costは「お金、時間、人材などもろもろ」のことを言ってそうで、「コスト」でいいかなあ
+
+Consider the True Costs
+本当のコストを考える
+
+When it comes to cost, it’s tempting to look only at the per-hour cost per person. If a developer in your country costs $100 per hour and an overseas developer costs $20 per hour, it appears much cheaper to use an overseas team. But as Jonathan pointed out in the story, management must factor in the hidden costs of offshoring. These include  transition  costs,  increased  overhead,  long-term  retention,  managing  the work, and making sure the new team follows the development practices/processes that are valuable to the local teams.
+コストは人日で考えたくなる。自国の開発者が1時間100ドルで海外なら1時間20ドルかかるとしたら、海外の方が安く見える。しかしジョナサンが指摘したように、オフショア開発の隠れたコストを考慮しなくてはならない。引き継ぎ、追加のオーバーヘッド、長期的継続性、作業管理、新しいチームがプラクティスやプロセスをきちんと守っているか確認する作業などが、発注元の重要な作業となる。
+
+Transition Costs
+引き継ぎコスト
+
+One  big  hidden  cost  of  outsourcing  is  transition.  As  Jonathan  highlighted  in  the story, it will cost time and money to get the new team up to speed. People need to get together to transition effectively, which means bringing some or all of the remote team into a central office to work with the original team. And it’s not just a one-time knowledge dump. Getting the new team to understand a system in depth involves having at least some of the team members travel to pair with the old team members. It is best to have people cycle back and forth—meaning have some of the local team travel to the remote site and have some of the remote team spend time with the local team. Depending on the size of your project, the knowledge transfer can take weeks, months, or even a year.
+引き継ぎコストはアウトソーシングの隠れたコストの大きな部分を占める。ジョナサンの物語にあったように、新しいチームがスピードを出せるようになるまでには時間とお金がかかる。メンバーを一緒にすれば効果的に引き継げるので、新しいチームの一部または全員を呼んで、発注側のチームと一緒に働いてもらうのがよい。しかし知識を一回ですべて引き渡せるものではない。システムを深く理解するには、新チームの少なくとも一部のメンバーが元のチームとペアを組んで作業しなくてはならない。メンバーを相互に行き来させるのが一番良い。あちらのメンバーを数名こちらに、こちらからも数名あちらに、という具合だ。プロジェクトのサイズにより、引き継ぎには数週間、数ヶ月、場合によっては1年かかる。
+※transitionを引き継ぎとするのは、妥当だと思うんだけど、誤解を生むかも
+※localとかoriginalがうまくない。発注側という言葉はしっくりこない。
+
+Research shows that transition costs can range from 5 percent to 57 percent of the total project cost [OVERBY] [ROTTMAN]. Studies also show that while there might be a cost savings in using overseas teams, it is often removed by transition costs. In fact, the outsourcing venture might ultimately cost more than using local teams [YU].
+研究によれば引き継ぎにはプロジェクト全体のコストの5％から57％かかる。[OVERBY] [ROTTMAN] 海外チームを使うことでコストを削減しても、引き継ぎですべて帳消しになってしまうこともある。実際のところ、アウトソーシングベンチャーは自国チームより最終的に高くつくかもしれない。[YU]
+
+Increased Overhead
+追加のオーバーヘッド
+
+In Chapter 8, “The Case for a Full-Time ScrumMaster,” I discussed how to determine the loaded cost of an employee. We calculated that most employees spend only 40 percent to 60 percent of their time on task during any given project, meaning they spend three to five hours per day doing productive work. The rest of the time is part necessary overhead, part noise and waste.
+Chapter 8 “The Case for a Full-Time ScrumMaster”で、従業員のloaded costを調べる方法を説明した。そこで見たように、従業員のほとんどはプロジェクト作業に使える時間が40％から60%しかない。つまり、1日あたり3～5時間しか生産的な仕事ができていないのだ。残りの時間は必要なオーバーヘッドか、ノイズやムダだ。
+
+Outsourced  projects  have  built-in  communication  challenges  that  take  away from available productive time. In teams I’ve worked on, and many of the teams I’ve coached, people on outsourced projects spend an extra hour every day on additional meetings, email, and phone calls, as teams struggle through cultural and language barriers. This increased overhead must be factored into the overall project cost.
+アウトソーシングしたプロジェクトにはコミュニケーションの困難がついて回り、生産的な時間をさらに削ってしまう。私が一緒に仕事したチームや、コーチしたチームの多くでは、アウトソーシングのせいで1日あたり1時間余分に取られていた。追加のミーティング、メール、電話などで、文化と言語の壁を越えるのに必要なものだ。こうした追加のオーバーヘッドがプロジェクト全体のコストに影響する。
+
+Long-Term Retention
+長期的継続性
+
+Overseas teams tend to have high turnover rates. Once trained, people understand they are more valuable and will often leave for a better paying job. One company I worked with in India said their turnover rate was nine months for each employee. If the organization you work with has a similar turnover rate, that means that by the time you finish transitioning the project, you’re going to have to absorb the costs associated with bringing in new team members. Turnover rates might be higher for your local teams as well. The longer the transition time, the more difficult it will be for your local team members to stay engaged with the project.
+海外チームでは退職率が高い傾向がある。いったんできるようになると、自分の価値がもっと高いと気づいて別の職に移ることが多いのだ。私が仕事をしたことのあるインドの会社では、在職期間は平均9ヶ月だった。あなたがオフショアする先が同じような退職率の場合、プロジェクトの引き継ぎが終わった頃には、また新しいメンバーを育てるコストが発生すると言うことになる。自社のチームの退職率も高くなるかもしれない。自社のチームにとっても、引き継ぎ時間が長いと、プロジェクトにやる気を持ち続けにくくなってくるからだ。
+
+Cultural Challenges and Managing the Work
+文化的困難と作業管理
+※文化的困難？文化の壁？文化の違い、くらいか？
+
+Day-to-day work tends to be more difficult on an outsourced project. You have to coordinate meetings, phone calls, and video conferences. You need to be more exacting with your email communications. All these obstacles have solutions, but the solutions come with increased costs.
+アウトソーシングしたプロジェクトでは日々の仕事も難しい。ミーティング、電話、テレビ会議などを調整しなくてはならない。メールでもより正確に伝えなくてはならない。こうした障害に対策はあるが、対策にもコストがかかる。
+
+Cultural  challenges  also  come  into  play  as  you  attempt  to  work  together.  In Succeeding  with  Agile,  Mike  Cohn  suggests  that  teams  create  coherence—or  “stick together” [COHN] (called “group cohesion” in the social sciences). To demonstrate the difficulties of understanding other cultures, Cohn relates how Geert Hofstede from IBM identified “five key dimensions along which cultures varied” [Hofstede as cited in Cohn, p. 359]. The data is illuminating and reveals what most of us know already. Chinese teams are less likely to challenge authority in a public forum; American teams are more likely to call it like they see it. Indian teams might say yes when they really mean “I hear what you are saying but don’t agree.” Overcoming cultural obstacles takes time, training, and patience, which ultimately means more cost to the project.
+文化的困難も、一緒に仕事をするうえで切っても切り離せない。マイク・コーンは『Succeeding  with  Agile』で、チームは一体になるべき、言い方を変えると「お互いにくっつく」べきだと述べた。[COHN] (社会科学の言葉で「集団凝集性 」と言われる。) 異なる文化を理解するのがなぜ難しいのか、コーンはIBMのGeert Hofstedeの「文化の差異の5つの次元」を紹介している。[Hofstede as cited in Cohn, p. 359] 我々がすでに知っていることをデータは示している。中国のチームは、おおやけの場所では権限ある人にあまり逆らわない。アメリカのチームは見たままを言うことが多い。インドのチームでは、イエスとは「あなたが言うことは聞こえているが賛成はしない」という意味のことがある。文化的障壁を乗り越えるには時間、トレーニング、辛抱強さが必要だ。それは結局、プロジェクトのコストである。
+※call it like they see it?
+
+Development Practices
+開発のプラクティス
+
+A friend told me that management once outsourced a key component in one of his projects to a company in another country—supposedly a top-notch consulting firm. He managed the remote team (as well as the local team), but knew there was trouble with the remote team. After weeks of them coding with no code drops, he finally insisted that they send him the partially completed code. What was received was a solution  with  a  single  Program.cs  file,  which  contained  a  single  method,  Main(). That method was hundreds upon hundreds of lines long. The out-of-country team had a dozen developers working on that single method, a method that didn’t even work. He subsequently fired the remote team.
+友人からこんな話を聞いた。経営陣の判断で、プロジェクトの重要なコンポーネントを海外にアウトソーシングしたことがあるそうだ。アウトソーシング先は一流のコンサルティングファームのはずだった。その友人が海外と地元の両チームを管理していたのだが、海外側に何か問題があると気づいた。数週間が過ぎたがコードが1行も出てこなかったのだ。とうとう彼は、開発途中でいいからできたコードを見せてくれと指示した。送られてきたものは、Program.csというファイルがひとつだけあるソリューションだった。Program.csにはMain()というメソッドがひとつだけあり、Main()には何百行ものコードが書いてあった。海外のチームはその巨大な1メソッドを10名以上の開発者で書いており、しかもメソッドは動かなかったのだ。海外チームはクビにしたそうだ。
+※fire a teamってどう表現するんだろう
+
+It’s not as if these practices are limited to outsource firms; I’ve witnessed this behavior in US-based firms as well as those in Europe, China, Japan, and India. But if you’ve got a high-performing Scrum team, you’ve long since abandoned those kinds of practices in favor of agile engineering and best practices that make software reliable and easy to maintain. You expect, therefore, to work with new teams that develop software to the same standards and using the same beneficial practices. Those teams won’t come cheap.
+こういう開発をするのは海外アウトソーシングに限った話ではない。私が知る限り、アメリカ、ヨーロッパ、
+
+You also need to decide how you want to work with the offshore teams. You might choose to use work package deliverables, where each team builds a set of features on its own. Or you might choose to work around the globe, where the code moves from site to site to site. These added complexities make having standard engineering practices such as continuous integration and test-driven development even more critical to your success. Training teams that don’t already do this to use these practices takes time and money.
+
+Dealing with Reality
+
+If  your  company  is  considering  outsourcing,  show  them  the  list  of  hidden  costs described in this chapter. Maybe you’ll be lucky and the powers that be will reconsider. It’s more likely, however, that you’ll be stuck with an outsourcing situation at some point in your career. It doesn’t have to be the death knell for your project, as long as you don’t go in blindly. When considering offshoring a project, you need to factor in all the costs, including vendor selection, transition costs, travel, losses in productivity, and increased project management. So how do you account for all these costs and give management some idea of what their real cost will be?
+
+Budget and Cost
+
+When estimating the budget for an outsourced project, I’ve found it helpful to show only the best- and worst-case scenarios; I do not guess at a most likely cost because too much information is unknown about the entire experience (team dynamics, code quality, the product itself, etc.) to determine what is most likely.
+
+Your  first  input  is  the  total  project  budget.  The  budget  might  be  an  external number (if you are soliciting a bid) or an internal number (if you have a fixed cost you are trying to hit either in terms of loaded costs of a team or actual funds that you have to manage).
+
+List the broad cost categories in one column. In the example in Table 28-1, the first cost item I list is vendor selection. If you already have a vendor, that cost wouldn’t apply to your project. From there, I list what percentage (variable) of that item in the budget is usually spent on that category. For example, the best-case scenario for vendor selection is 0.5 percent; in the worst-case scenario, the percentage goes up to 1.5 percent. I do this for each potential hidden cost item.
+
+You’ll notice that some of the categories in Table 28-1 are identical to the costs I highlighted in the model (transition costs, for instance). Others, such as increased project management and losses in productivity are large buckets for several related costs. For example, losses in productivity include increased overhead, the need to get up to speed on development practices, and an anticipation of high turnover rates. You can use these categories or choose ones more specific to your own situation.
+
+The percent variables I list are based on my experience. I suggest you start with your own data and, if needed, look at industry trends. For example, if you have a big team, your travel variable could be significantly higher than that shown in Table 28-1. Some costs, such as bugs and turnover, are harder to estimate, as you’d need to have some idea of the quality you will receive back from the offshore team and what their turnover is likely to be. That’s why it’s important to continue to track these costs over time, so that you can not only demonstrate the real cost of outsourcing but also create a better estimate for the next project.
+
+Of course, you might also find that with tight engineering practices and a good effort at engineering, you actually do save money. If so, great. It’s still important to know for certain what the real cost of outsourcing is in your situation. Gather data and go into each new outsourced project with as much information as possible. That way, you won’t be caught off guard by the cost of doing business offshore.
+
+Time, Distance, and Culture
+
+The country where the outsourcing takes place is not the issue; you can find high-performing teams all around the world. The reason I am not a proponent of outsourcing, aside from the hidden costs, has to do with the fundamental challenge with distributed teams. Successful agile projects depend on high-performing teams. It’s difficult to function as a unit when teams are spread out across time zones, don’t share the same culture, and feel disconnected from one another by distance.
+
+That  being  said,  I  have  seen  successful  Scrum  teams  that  outsource.  Just  not many. The ones that are successful have invested time, money, and patience in creating long-term relationships among the local and outsourced teams, have taken the time to understand each other’s culture and point-of-view, and have been well-versed in agile principles and practices before they begin.
+
+In the next section, we look at ways to ensure that your outsourced project runs as smoothly as possible, both for the local teams and the offshore teams.
+
+Keys to Success
+
+The keys to success listed in this section are all based on one underlying ideal: No matter how far apart you are, do all you can to make it feel like you’re a single team, working in one co-located space.
+
+Choose the Right Offshore Team
+
+There are two dimensions to choosing the right offshore team: hiring agile teams and going north/south.
+
+Hire Agile Teams
+
+When you outsource an agile project, hire a team that is already agile. Otherwise, you’ll spend a great deal of time and money trying to educate the outsourced team on agile practices and principles, which might be very foreign to the team’s own company culture. And don’t depend on a line item in a marketing presentation that says, “We’re agile.” Go watch the team in action. See how the team members work and make sure their idea of being agile is consistent with your local team’s philosophy. And most importantly, talk to former clients. This often gives you an idea of how agile the outsourced team really is.
+
+Go North/South
+
+If you’re going to go offshore, try to choose a team within three time zones of your local teams. This usually means going north/south instead of east/west. If you are in the UK, outsource to Portugal, Spain, an African nation, or maybe even Eastern Europe.  If  you  are  based  in  North  America,  look  to  South  America.  North/south really saves on the late-night conference calls and the time lost waiting for answers. When time zones are a factor, quick questions that could be answered in five minutes in a shared team space could potentially derail the project for a day.
+
+Allocate the Work in the Least Painful Way
+
+When  looking  to  break  up  your  work,  you  have  several  options.  One  common approach I see is for teams to use “work package” deliverables. A work package is an allocation of a specific feature or set of features that the outsourced team works on. Though you need a local team coordinator to facilitate and coordinate the work, this approach generally does not require entire teams from both locations to meet on a daily basis.
+
+Another option that many companies use is to have multiple teams work on the same codebase. When considering this option, understand that certain engineering practices and standards need to be in place, such as quality gates or check-in requirements, notations, a common definition of done, and more. By having teams working on the same codebase during their non-overlapping workdays, you can ostensibly accomplish more work in less time.
+
+A third approach I’ve seen companies try is to offshore specific functions such as testing, UI, data modeling, or varying layers of a system. This is probably the worst of the options outlined here because the feedback loops and integration loops are horrendously long.
+
+The best approach when allocating the work is to give the offshore team independence by providing them with a complete feature or feature set to work on and build end to end. It’s also the most expensive. Stakeholders and customers (or product owners) will have to travel and spend significant amounts of time working offshore with the team. Another advantage of dividing the work into distinct features is that if the offshore team produces something of subpar quality, it is easy to jettison the poorly implemented feature in its entirety.
+
+Stick with the Scrum Framework
+
+When you outsource work, don’t abandon the Scrum practices that have been successful for your co-located team. While it might be more difficult to coordinate these activities, they are essential for long-term success.
+
+Daily Standup
+
+Continue to have daily standups, preferably via teleconference. If you’ve followed my advice and stayed within three time zones, this should be relatively painless. If you’re up against a 12- to 13-hour time difference, finding a time during working hours each day for both teams to meet is going to be difficult. Share the pain by alternating weeks: One week, one part of the team is on duty late; the next week it’s the other part 
+of the team. In other words, if you are in Asia and your team is in Canada, you’ll be working late, say at 9 p.m., for one week. The next week you’ll get to meet at the more normal time of 9 a.m., while your team in Canada gets the late-shift daily standup. It’s essential that you keep having the daily standups, even when it’s difficult or painful.
+
+Sprint Reviews
+
+Keep sprint reviews live via video conferencing. Don’t demo via email. Schedule a time for a demo and then alternate which team has to have the awkward time. Use a staggered approach like with the daily standup: One sprint, the review is at 9 p.m. on a Friday; the next time it’s at 9 a.m. on a Friday. Yes, people will complain, especially the stakeholders. Kindly remind them their support is needed, that the team deals with this daily, and that this is the best way to deal with the reality of outsourced projects.
+
+Retrospectives
+
+Don’t skimp on retrospectives. In fact, they might be the most important tool you have to build a cohesive team. You still need to alternate the times and have at least 30 minutes to 1 hour of overlapping retrospective time. You might also choose to have each team do a local retrospective, using group time to review what was discussed and to determine how to remove the identified impediments/issues.
+
+Build a One-Team Culture
+
+We’ve talked about the importance of a well-run transition. But if your team is going to remain involved in the project with the offshore team, you have to find ways to work together long term. Start the project with an in-person kick-off meeting with the entire worldwide team. (Add this to your growing list of software costs.)
+
+You  need  to  plan  team  building  activities  and  regular  visits.  You  should  also bring offshore people to the central office and vice versa on a rotational basis to build team cohesion. At these joint meetings, work toward building a common development environment and codebase. This helps with packing and unpacking the code.Use Pairing to Create Shared Understanding
+
+It is essential that the team members know each other and understand the codebase they are collectively building. The best way to accomplish this is to have dedicated pairing sessions. Many technologies exist to enable long-distance pairing (VNC/Live-Meeting/Windows Live Shared Desktop, to name a few). Use them. Let management know up front that you will need to work in pairs and that these pairs will be based on work, not proximity.
+
+As with everything else, pairing is more challenging when teams do not share many (or any) common work hours. Even if it’s painful, find two hours at least three times per week when pairs can work together on the code. As with meetings, share the pain of staying late or arriving early by alternating the times each week.
+
+Continuous Integration
+
+Pairing is a good start, but you also need a way to know how the codebase is doing in real time, whether your code spans the globe or is a work package done in a single office. To help ensure that everyone knows the current state of the code, maintain a continuous integration server (and institute a good branching strategy). CI becomes more of a challenge when you factor in bandwidth issues between countries, available hardware, and the number of people involved, so don’t go into this lightly—think the strategy through and factor in the things that you might take for granted, like a gigabit Internet connection, readily available telecommunication equipment, and electricity.
+
+Keep in Constant Contact with Technology
+
+Two things I insist on with offshore teams are a dedicated uplink, such as an “always on” phone line, IM, or video portal. The uplink allows a live connection between teams throughout the day. If someone in Seattle has a question for the team in Brazil, they need only pick up the handset and ask the question. It mimics rolling back in your chair and shouting out the question to the local team. It’s quick, it’s easy, and it’s always on.
+
+The webcam is another must-have. You should be able to see your long-distance team members—and they should be able to see you. If you need to talk to them, you can see that they are at their desks and talk to them instantly.
+
+Another one of my favorite technology tools is the push-to-talk mobile phone. This works great for teams that are in the same country but, for whatever reason, don’t have webcams or a dedicated phone line. This enables them to have that instantaneous, spontaneous connection to their teammates.
+
+If  your  company  fights  you  on  implementing  any  of  these  technologies,  push back hard. Remind them that it was their decision to outsource the work and that these tools are essential to the project’s success.
+
+Be Prepared to Travel
+
+Travel is essential when outsourcing work. If the company has not allocated a budget for travel, don’t do outsourcing. It will never work. Frequent in-person meetings are the only way to establish a true team environment and build trust among team members.
+
+Travel is also an essential tool to nip problems in the bud. Every culture is different, even within your own country. When you are dealing with another country, culture differences magnify. Words, mannerisms, and even body gestures in one country can mean something entirely different in another. Nothing degrades team trust faster than having two teams that are not versed in each other’s cultures. When trust issues surface, take action immediately, and take it in person. You might even have to move the whole team—pick one—to the other location. Get them to work together for a week or two to rebuild trust. Do this frequently. Yes, this will be expensive, but the time wasted when two teams don’t trust each other is far more costly, especially when your customers are the ones to suffer the consequences.
+
+Have a Project/Team Coordinator
+
+If you do decide to have multiple teams working with the same code, help reduce problems by assigning each team a project coordinator. I worked with one team who had its code circle the globe daily. The code went from Eastern Canada to China to Western Europe daily. In each location, a different team worked on it. Each location’s team had a coordinator who was responsible for unpacking the code in the morning so the team could work on it and then repacking it at the end of the day to transition it to the next team. The coordinator also relayed the backlog to the next team and tracked his or her team’s progress.
+
+While not optimal, having a project coordinator on each team responsible for managing the flow of code enabled these teams to spend a combined 14 productive hours on the code per day.
+
+Never Offshore When…
+
+There are certain times when a company should not offshore a project, no matter how careful the attempt.
+
+  Don’t outsource the first release of complex, high-technology-risk projects.
+  Don’t outsource if your local team struggles with development practices (TDD, CI, refactoring) or is undisciplined.
+  Don’t outsource without corporate support for the travel budget and technologies necessary for success.
+  Don’t outsource with an agile offshore company if you have no experience with agile yourself. You can’t succeed with an offshore agile project if you have yet to do an onshore project.
+
+As much as I dislike the practices of outsourcing and offshoring, I am realistic enough to understand that it is likely something every company will face. Do all that you can to fight it. Demonstrate the real costs. Look for people within your own organization who can share their struggles with offshoring. Present a well-reasoned case for keeping the project local.
+
+When all that data fails to sway management, don’t despair. With a hefty travel budget, a willingness to use technology, a faithful adherence to the Scrum framework and agile engineering practices, and the right offshore team, you can still succeed. It just takes a little more effort, a lot of extra patience, and several million frequent flyer miles.
+
+References
+参考図書
+
+[GUNNERSON]  Gunnerson, Eric. “ScrumBut.” http://blogs.msdn.com/b/ericgu/archive/2006/10/13/scrumbut.aspx (accessed 6 December 2008).
+[OVERBY]  Overby, Stephanie. 2003. “Offshore Outsourcing The Money: Moving Jobs Overseas Can Be a Much More Expensive Proposition Than You May Think.” CIO Magazine. September 1. 16(22).
+[ROTTMAN]  Rottman, Joseph, and Mary Lacity. 2006. “Proven Practices for Effectively Offshoring IT Work.” IT Sloan Management Review. 47(3), (Spring), 56–63.
+[YU]  Yu, Larry. 2006. “Behind the Cost-Savings Advantage.” MIT Sloan Management Review. 47(2), 8.
+[COHN]  Cohn, Mike. 2010. Succeeding with Agile. Upper Saddle River, NJ: Addison-Wesley. p. 359.
+
+Work Consulted
+
+Saran, Cliff. “Badly-Managed Offshore Software Development Costs Firms Millions.” Computer  Weekly.  http://www.computerweekly.com/Articles/2004/06/15/203138/Badly-managed-offshore-software-development-costs-firms.htm (accessed 23 January 2011).
