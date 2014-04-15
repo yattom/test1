@@ -17,7 +17,7 @@ The Story
 物語
 
 Jonathan had been working at his new company for three months. He was happy to be associated with an employer who valued agile principles and with teammates who knew how to deliver quality software. It was a far cry from his last job, with an employer that just didn’t get it and a team stuck in ScrumBut [GUNNERSON]. That all changed the day his manager Emma invited him for coffee and a talk.
-ジョナサンが転職して3ヶ月経った。新しい会社はアジャイルの原理を大事にしており、同僚も高品質なソフトウェアをデリバリーするすべを知っている。とても満足のいく環境で、前の会社とは大違いだった。前職の管理者はアジャイルを理解しておらず、チームはスクラムバット[GUNNERSON]にはまっていた。そんな幸せも、上司のエマに「コーヒーを飲みながら少し話がしたいんだけど」と言われたときから変わってしまうのである。
+ジョナサンが転職して3ヶ月経った。新しい会社はアジャイルの原理を大事にしており、同僚も高品質なソフトウェアをデリバリーするすべを知っている。とても満足のいく環境で、前の会社とは大違いだった。前職の管理者はアジャイルを理解しておらず、チームはスクラムバット[GUNNERSON]にはまっていた。そんな幸せも、上司のエマがコーヒーに誘ってきたときから変わってしまうのである。
 
 “I won’t beat around the bush, Jonathan,” Emma began as they walked toward the coffee stand. “I’ve got some good news and some potentially bad news. I’ll start with the bad. I just got out of an executive management meeting. We are going to shift your project to our overseas office. The good news is that you’ve been such a great leader that the senior vice president asked specifically for you to run it. Are you up for it?”
 「単刀直入に言うわね、ジョナサン」エマはコーヒーショップに向かう途中で切り出した。「いい知らせと、悪いかもしれない知らせがあるの。悪い方からいうと、たったいま経営会議で決まったことなのだけど、あなたのプロジェクトを海外支社へオフショアすることになりました。いい知らせは副社長が、あなたがこれまで3ヶ月優秀なリーダーだったと認めて、あなた自身にオフショアを仕切ってほしいと言っているの。請けてもらえるかしら？」
