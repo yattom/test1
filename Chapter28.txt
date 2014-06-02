@@ -6,6 +6,7 @@ OUTSOURCING AND OFFSHORING
 
 When the work piles up and the costs mount, shifting a portion of the work to outside teams, especially ones that can be hired at a reduced rate, can seem like a good idea. However, what starts out as a well-intentioned shifting of a project can turn out to be a nightmare.
 作業量やコストが超過してくると外部のチーム、特に低コストでできるところに発注したくなるものだ。だが目論見が外れ、プロジェクトを修羅場に突入させてしまうこともある。
+う
 
 Outsourcing and/or offshoring, though sometimes unpopular, are here to stay. And because that’s true, too many of us find that we have to make the best of a less-than-optimal situation. That was the case with Jonathan, a newly hired lead developer at a Silicon Valley software company known for its agile development practices. Let’s see how he reacts when he learns that he is to manage two newly outsourced teams.
 アウトソーシングやオフショアには悪評もついてまわるが、なくなりはしない。そのおかげで、理想的ではない状況の中で最善を尽くさねばならない羽目に陥ることも多い。ここで紹介するジョナサンもそんな目に会った一人だ。ジョナサンはシリコンバレーでもアジャイル開発を実践していることで知られる会社に最近入社したばかりなのに、新規のアウトソース先を担当するように指示されてしまうのである。
